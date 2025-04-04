@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065306015361",
+    "project_id": "advweb-2f486",
+    "storage_bucket": "advweb-2f486.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065306015361:android:c7b16ad595c6c7dc876f80",
+        "android_client_info": {
+          "package_name": "com.example.advweb_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh756L7jFuVGhClyoTI0VMSrYfwtAIy_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
